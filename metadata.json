@@ -1,0 +1,6 @@
+{
+  "name": "La Última Niebla - Guía de Estudio Arcade",
+  "description": "Guía de estudio interactiva sobre 'La última niebla' de María Luisa Bombal, diseñada con temática de videojuego de lucha arcade y taekwondo para estudiantes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
